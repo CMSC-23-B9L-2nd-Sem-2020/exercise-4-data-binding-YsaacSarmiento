@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">sarmiento_exer4_SlamBook</string>
+    <string name="hello">Hello</string>
+    <string name="name">Name</string>
+    <string name="a">a</string>
+    <string name="text">text</string>
+    <string name="age">age</string>
+    <string name="thank_you_for_answering">thank_you_for_answering</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_nickname">Enter nickname</string>
+    <string name="age2">Age</string>
+    <string name="when_is_your_birthday">When is your birthday?</string>
+    <string name="enter_birthday">Enter birthday</string>
+    <string name="what_is_your_course">What is your course</string>
+    <string name="enter_course">Enter course</string>
+    <string name="favorite_color">Favorite color</string>
+    <string name="enter_color">Enter color</string>
+    <string name="what_is_your_special_dream">What is your special dream?</string>
+    <string name="enter_dream_and_never_return">Enter dream and never return</string>
+    <string name="who_is_your_secret_crush">Who is your secret crush</string>
+    <string name="enter_crush">Enter crush</string>
+    <string name="mssg">What is your message for me?</string>
+    <string name="done">DONE</string>
+    <string name="nickname">Nickname</string>
+    <string name="phone_number">Phone number</string>
+    <string name="answer">Thank you for answering!</string>
+</resources>
